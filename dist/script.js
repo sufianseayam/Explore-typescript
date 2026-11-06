@@ -6,3 +6,4 @@ import "./v3-type-vs-interface.js";
 import "./v4-different-types.js";
 import "./v5-type-assertion.js";
 import "./v6-narrowing.js";
+import "./narrowing-cont.js";
